@@ -1,2 +1,2 @@
 Hello
-Hello (from Contibutor)
+Hello (from Contibutors)
